@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "chickenroll:block/chicken_roll_block"
+    }
+}

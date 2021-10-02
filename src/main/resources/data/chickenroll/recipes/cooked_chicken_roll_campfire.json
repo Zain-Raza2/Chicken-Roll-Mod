@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+        "item": "chickenroll:chicken_roll"
+    },
+    "result": "chickenroll:cooked_chicken_roll",
+    "experience": 0.5,
+    "cookingtime": 600
+}
